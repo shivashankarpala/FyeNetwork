@@ -1,0 +1,394 @@
+###########################################################################
+#                    Available Item Fields & Their Purpose:               #
+#                      REQ = REQUIRED, OPT = OPTIONAL.                    #
+#                                                                         #
+# id ~ REQ ~ Material name of the Item. Use names from the link above.    #
+# name ~ OPT ~ Custom name of item only inside the shop.                  #
+# enchantments ~ OPT ~ Enchantments of an item. E.G 'DURA:1 SHARP:2'      #
+# lore ~ OPT ~ Custom lore to display only on the shop item.              #
+# target-shop ~ OPT ~ Shop to open when clicking the item.                #
+# skull-uuid ~ OPT ~ Set the UUID of a skull skin.                        #
+###########################################################################
+#                        Looking for Item Names?                          #
+###########################################################################
+#                     See in the Dictionary folder                        #
+###########################################################################
+
+Menu:
+   pages:
+      Page0:
+         items:
+            "0":
+               id: LIGHT_GRAY_STAINED_GLASS_PANE
+               name: " "
+            "1":
+               id: LIGHT_GRAY_STAINED_GLASS_PANE
+               name: " "
+            "2":
+               id: LIGHT_GRAY_STAINED_GLASS_PANE
+               name: " "
+            "3":
+               id: LIGHT_GRAY_STAINED_GLASS_PANE
+               name: " "
+            "4":
+               id: LIGHT_GRAY_STAINED_GLASS_PANE
+               name: " "
+            "5":
+               id: LIGHT_GRAY_STAINED_GLASS_PANE
+               name: " "
+            "6":
+               id: LIGHT_GRAY_STAINED_GLASS_PANE
+               name: " "
+            "7":
+               id: LIGHT_GRAY_STAINED_GLASS_PANE
+               name: " "
+            "8":
+               id: LIGHT_GRAY_STAINED_GLASS_PANE
+               name: " "
+            "9":
+               id: LIGHT_GRAY_STAINED_GLASS_PANE
+               name: " "
+            "10":
+               id: COBBLESTONE
+               name: "&fBlocks"
+               target-shop: "Blocks"
+            "11":
+               id: LIGHT_GRAY_STAINED_GLASS_PANE
+               name: " "
+            "12":
+               id: OAK_LOG
+               name: "&fWood"
+               target-shop: "wood"
+            "13":
+               id: LIGHT_GRAY_STAINED_GLASS_PANE
+               name: " "
+            "14":
+               id: YELLOW_WOOL
+               name: "&fDecorations"
+               target-shop: "decorations"
+            "15":
+               id: LIGHT_GRAY_STAINED_GLASS_PANE
+               name: " "
+            "16":
+               id: GRINDSTONE
+               name: "&7Utility"
+               target-shop: "utility"
+            "17":
+               id: LIGHT_GRAY_STAINED_GLASS_PANE
+               name: " "
+            "18":
+               id: LIGHT_GRAY_STAINED_GLASS_PANE
+               name: " "
+            "19":
+               id: LIGHT_GRAY_STAINED_GLASS_PANE
+               name: " "
+            "20":
+               id: LIGHT_GRAY_STAINED_GLASS_PANE
+               name: " "
+            "21":
+               id: LIGHT_GRAY_STAINED_GLASS_PANE
+               name: " "
+            "22":
+               id: LIGHT_GRAY_STAINED_GLASS_PANE
+               name: " "
+            "23":
+               id: LIGHT_GRAY_STAINED_GLASS_PANE
+               name: " "
+            "24":
+               id: LIGHT_GRAY_STAINED_GLASS_PANE
+               name: " "
+            "25":
+               id: LIGHT_GRAY_STAINED_GLASS_PANE
+               name: " "
+            "26":
+               id: LIGHT_GRAY_STAINED_GLASS_PANE
+               name: " "
+            "27":
+               id: LIGHT_GRAY_STAINED_GLASS_PANE
+               name: " "
+            "28":
+               id: EMERALD
+               name: "&3Minerals"
+               target-shop: "minerals"
+            "29":
+               id: LIGHT_GRAY_STAINED_GLASS_PANE
+               name: " "
+            "30":
+               id: REDSTONE
+               name: "&3Redstone"
+               target-shop: "redstone"
+            "31":
+               id: LIGHT_GRAY_STAINED_GLASS_PANE
+               name: " "
+            "32":
+               id: CARROT
+               name: "&fVegetation"
+               target-shop: "vegetation"
+            "33":
+               id: LIGHT_GRAY_STAINED_GLASS_PANE
+               name: " "
+            "34":
+               id: ROTTEN_FLESH
+               name: "&4Mob Loot"
+               target-shop: "mobloot"
+            "35":
+               id: LIGHT_GRAY_STAINED_GLASS_PANE
+               name: " "
+            "36":
+               id: LIGHT_GRAY_STAINED_GLASS_PANE
+               name: " "
+            "37":
+               id: LIGHT_GRAY_STAINED_GLASS_PANE
+               name: " "
+            "38":
+               id: LIGHT_GRAY_STAINED_GLASS_PANE
+               name: " "
+            "39":
+               id: LIGHT_GRAY_STAINED_GLASS_PANE
+               name: " "
+            "40":
+               id: LIGHT_GRAY_STAINED_GLASS_PANE
+               name: " "
+            "41":
+               id: LIGHT_GRAY_STAINED_GLASS_PANE
+               name: " "
+            "42":
+               id: LIGHT_GRAY_STAINED_GLASS_PANE
+               name: " "
+            "43":
+               id: LIGHT_GRAY_STAINED_GLASS_PANE
+               name: " "
+            "44":
+               id: LIGHT_GRAY_STAINED_GLASS_PANE
+               name: " "
+            "45":
+               id: GRAY_STAINED_GLASS_PANE
+               name: " "
+            "46":
+               id: GRAY_STAINED_GLASS_PANE
+               name: " "
+            "47":
+               id: GRAY_STAINED_GLASS_PANE
+               name: " "
+            "48":
+               id: GRAY_STAINED_GLASS_PANE
+               name: " "
+            "49":
+               id: GRAY_STAINED_GLASS_PANE
+               name: " "
+            "50":
+               id: GRAY_STAINED_GLASS_PANE
+               name: " "
+            "51":
+               id: GRAY_STAINED_GLASS_PANE
+               name: " "
+            "52":
+               id: GRAY_STAINED_GLASS_PANE
+               name: " "
+            "53":
+               id: GRAY_STAINED_GLASS_PANE
+               name: " "
+      Page1:
+         items:
+            "0":
+               id: LIGHT_GRAY_STAINED_GLASS_PANE
+               name: " "
+            "1":
+               id: LIGHT_GRAY_STAINED_GLASS_PANE
+               name: " "
+            "2":
+               id: LIGHT_GRAY_STAINED_GLASS_PANE
+               name: " "
+            "3":
+               id: LIGHT_GRAY_STAINED_GLASS_PANE
+               name: " "
+            "4":
+               id: LIGHT_GRAY_STAINED_GLASS_PANE
+               name: " "
+            "5":
+               id: LIGHT_GRAY_STAINED_GLASS_PANE
+               name: " "
+            "6":
+               id: LIGHT_GRAY_STAINED_GLASS_PANE
+               name: " "
+            "7":
+               id: LIGHT_GRAY_STAINED_GLASS_PANE
+               name: " "
+            "8":
+               id: LIGHT_GRAY_STAINED_GLASS_PANE
+               name: " "
+            "9":
+               id: LIGHT_GRAY_STAINED_GLASS_PANE
+               name: " "
+            "10":
+               id: LIGHT_GRAY_STAINED_GLASS_PANE
+               name: " "
+            "11":
+               id: LIGHT_GRAY_STAINED_GLASS_PANE
+               name: " "
+            "12":
+               id: LIGHT_GRAY_STAINED_GLASS_PANE
+               name: " "
+            "13":
+               id: PLAYER_HEAD
+               skull-uuid: "bb6bccb6-cd90-4844-9b1b-60722b1823ae"
+               lore:
+                  - "&aLine 1"
+                  - "&bLine 2"
+               name: "&4Head Shop"
+               target-shop: "Heads"
+            "14":
+               id: LIGHT_GRAY_STAINED_GLASS_PANE
+               name: " "
+            "15":
+               id: LIGHT_GRAY_STAINED_GLASS_PANE
+               name: " "
+            "16":
+               id: LIGHT_GRAY_STAINED_GLASS_PANE
+               name: " "
+            "17":
+               id: LIGHT_GRAY_STAINED_GLASS_PANE
+               name: " "
+            "18":
+               id: LIGHT_GRAY_STAINED_GLASS_PANE
+               name: " "
+            "19":
+               id: LIGHT_GRAY_STAINED_GLASS_PANE
+               name: " "
+            "20":
+               id: LIGHT_GRAY_STAINED_GLASS_PANE
+               name: " "
+            "21":
+               id: POTION
+               potion-info:
+                  type: INSTANT_DAMAGE
+                  splash: true
+                  extended: false
+                  upgraded: true
+               lore:
+                  - "&aLine 1"
+                  - "&bLine 2"
+               name: "&4Potion &bShop"
+               target-shop: "Potions"
+            "22":
+               id: FIREWORK_ROCKET
+               lore:
+                  - "&aLine 1"
+                  - "&bLine 2"
+               name: "&4Fireworks"
+               target-shop: "Fireworks"
+            "23":
+               id: CHEST
+               lore:
+                  - "&aLine 1"
+                  - "&bLine 2"
+               name: "&4Pre-Filled Chest &bShop"
+               target-shop: "Chests"
+            "24":
+               id: LIGHT_GRAY_STAINED_GLASS_PANE
+               name: " "
+            "25":
+               id: LIGHT_GRAY_STAINED_GLASS_PANE
+               name: " "
+            "26":
+               id: LIGHT_GRAY_STAINED_GLASS_PANE
+               name: " "
+            "27":
+               id: LIGHT_GRAY_STAINED_GLASS_PANE
+               name: " "
+            "28":
+               id: LIGHT_GRAY_STAINED_GLASS_PANE
+               name: " "
+            "29":
+               id: BOW
+               lore:
+                  - "&aLine 1"
+                  - "&bLine 2"
+               name: "&4Bow & Arrow Shop"
+               target-shop: "Bow"
+            "30":
+               id: LIGHT_GRAY_STAINED_GLASS_PANE
+               name: " "
+            "31":
+               id: CREEPER_SPAWN_EGG
+               lore:
+                  - "&aLine 1"
+                  - "&bLine 2"
+               name: "&4Egg Shop"
+               target-shop: "Eggs"
+            "32":
+               id: LIGHT_GRAY_STAINED_GLASS_PANE
+               name: " "
+            "33":
+               id: POPPY
+               lore:
+                  - "&aLine 1"
+                  - "&bLine 2"
+               name: "&4Flower / Decor Shop"
+               target-shop: "Flowers"
+            "34":
+               id: LIGHT_GRAY_STAINED_GLASS_PANE
+               name: " "
+            "35":
+               id: LIGHT_GRAY_STAINED_GLASS_PANE
+               name: " "
+            "36":
+               id: LIGHT_GRAY_STAINED_GLASS_PANE
+               name: " "
+            "37":
+               id: LIGHT_GRAY_STAINED_GLASS_PANE
+               name: " "
+            "38":
+               id: LIGHT_GRAY_STAINED_GLASS_PANE
+               name: " "
+            "39":
+               id: LIGHT_GRAY_STAINED_GLASS_PANE
+               name: " "
+            "40":
+               id: LIGHT_GRAY_STAINED_GLASS_PANE
+               name: " "
+            "41":
+               id: LIGHT_GRAY_STAINED_GLASS_PANE
+               name: " "
+            "42":
+               id: LIGHT_GRAY_STAINED_GLASS_PANE
+               name: " "
+            "43":
+               id: LIGHT_GRAY_STAINED_GLASS_PANE
+               name: " "
+            "44":
+               id: LIGHT_GRAY_STAINED_GLASS_PANE
+               name: " "
+            "45":
+               id: LIGHT_GRAY_STAINED_GLASS_PANE
+               name: " "
+            "46":
+               id: LIGHT_GRAY_STAINED_GLASS_PANE
+               name: " "
+            "47":
+               id: LIGHT_GRAY_STAINED_GLASS_PANE
+               name: " "
+            "48":
+               id: LIGHT_GRAY_STAINED_GLASS_PANE
+               name: " "
+            "49":
+               id: LIGHT_GRAY_STAINED_GLASS_PANE
+               name: " "
+            "50":
+               id: LIGHT_GRAY_STAINED_GLASS_PANE
+               name: " "
+            "51":
+               id: LIGHT_GRAY_STAINED_GLASS_PANE
+               name: " "
+            "52":
+               id: LIGHT_GRAY_STAINED_GLASS_PANE
+               name: " "
+            "53":
+               id: LIGHT_GRAY_STAINED_GLASS_PANE
+               name: " "
+
+   ################################
+   ##  Developed by pablo67340   ##
+   ##  If you need any support:  ##
+   ##  discord.gg/XQb2Y2jBCa     ##
+   ################################
