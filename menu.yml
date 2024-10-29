@@ -20,381 +20,215 @@ Menu:
          items:
             "0":
                id: LIGHT_GRAY_STAINED_GLASS_PANE
-               name: ""
+               name: " "
             "1":
                id: LIGHT_GRAY_STAINED_GLASS_PANE
-               name: ""
+               name: " "
             "2":
                id: LIGHT_GRAY_STAINED_GLASS_PANE
-               name: ""
+               name: " "
             "3":
                id: LIGHT_GRAY_STAINED_GLASS_PANE
-               name: ""
+               name: " "
             "4":
                id: LIGHT_GRAY_STAINED_GLASS_PANE
-               name: ""
+               name: " "
             "5":
                id: LIGHT_GRAY_STAINED_GLASS_PANE
-               name: ""
+               name: " "
             "6":
                id: LIGHT_GRAY_STAINED_GLASS_PANE
-               name: ""
+               name: " "
             "7":
                id: LIGHT_GRAY_STAINED_GLASS_PANE
-               name: ""
+               name: " "
             "8":
                id: LIGHT_GRAY_STAINED_GLASS_PANE
-               name: ""
+               name: " "
             "9":
                id: LIGHT_GRAY_STAINED_GLASS_PANE
-               name: ""
+               name: " "
             "10":
                id: COBBLESTONE
                name: "&fBlocks"
                target-shop: "Blocks"
             "11":
                id: LIGHT_GRAY_STAINED_GLASS_PANE
-               name: ""
+               name: " "
             "12":
                id: OAK_LOG
                name: "&fWood"
                target-shop: "wood"
             "13":
                id: LIGHT_GRAY_STAINED_GLASS_PANE
-               name: ""
+               name: " "
             "14":
                id: YELLOW_WOOL
                name: "&fDecorations"
                target-shop: "decorations"
             "15":
                id: LIGHT_GRAY_STAINED_GLASS_PANE
-               name: ""
+               name: " "
             "16":
                id: GRINDSTONE
-               name: "&fUtility"
+               name: "&7Utility"
                target-shop: "utility"
             "17":
                id: LIGHT_GRAY_STAINED_GLASS_PANE
-               name: ""
+               name: " "
             "18":
                id: LIGHT_GRAY_STAINED_GLASS_PANE
-               name: ""
+               name: " "
             "19":
                id: LIGHT_GRAY_STAINED_GLASS_PANE
-               name: ""
+               name: " "
             "20":
                id: LIGHT_GRAY_STAINED_GLASS_PANE
-               name: ""
+               name: " "
             "21":
                id: LIGHT_GRAY_STAINED_GLASS_PANE
-               name: ""
+               name: " "
             "22":
                id: LIGHT_GRAY_STAINED_GLASS_PANE
-               name: ""
+               name: " "
             "23":
                id: LIGHT_GRAY_STAINED_GLASS_PANE
-               name: ""
+               name: " "
             "24":
                id: LIGHT_GRAY_STAINED_GLASS_PANE
-               name: ""
+               name: " "
             "25":
                id: LIGHT_GRAY_STAINED_GLASS_PANE
-               name: ""
+               name: " "
             "26":
                id: LIGHT_GRAY_STAINED_GLASS_PANE
-               name: ""
+               name: " "
             "27":
                id: LIGHT_GRAY_STAINED_GLASS_PANE
-               name: ""
+               name: " "
             "28":
                id: EMERALD
                name: "&3Minerals"
                target-shop: "minerals"
             "29":
                id: LIGHT_GRAY_STAINED_GLASS_PANE
-               name: ""
+               name: " "
             "30":
                id: REDSTONE
                name: "&3Redstone"
                target-shop: "redstone"
             "31":
                id: LIGHT_GRAY_STAINED_GLASS_PANE
-               name: ""
+               name: " "
             "32":
                id: CARROT
                name: "&fVegetation"
                target-shop: "vegetation"
             "33":
                id: LIGHT_GRAY_STAINED_GLASS_PANE
-               name: ""
+               name: " "
             "34":
                id: ROTTEN_FLESH
                name: "&4Mob Loot"
                target-shop: "mobloot"
             "35":
                id: LIGHT_GRAY_STAINED_GLASS_PANE
-               name: ""
+               name: " "
             "36":
                id: LIGHT_GRAY_STAINED_GLASS_PANE
-               name: ""
+               name: " "
             "37":
                id: LIGHT_GRAY_STAINED_GLASS_PANE
-               name: ""
+               name: " "
             "38":
                id: LIGHT_GRAY_STAINED_GLASS_PANE
-               name: ""
+               name: " "
             "39":
                id: LIGHT_GRAY_STAINED_GLASS_PANE
-               name: ""
+               name: " "
             "40":
                id: LIGHT_GRAY_STAINED_GLASS_PANE
-               name: ""
+               name: " "
             "41":
                id: LIGHT_GRAY_STAINED_GLASS_PANE
-               name: ""
+               name: " "
             "42":
                id: LIGHT_GRAY_STAINED_GLASS_PANE
-               name: ""
+               name: " "
             "43":
                id: LIGHT_GRAY_STAINED_GLASS_PANE
-               name: ""
+               name: " "
             "44":
                id: LIGHT_GRAY_STAINED_GLASS_PANE
-               name: ""
+               name: " "
             "45":
                id: GRAY_STAINED_GLASS_PANE
-               name: ""
+               name: " "
             "46":
                id: GRAY_STAINED_GLASS_PANE
-               name: ""
+               name: " "
             "47":
                id: GRAY_STAINED_GLASS_PANE
-               name: ""
+               name: " "
             "48":
                id: GRAY_STAINED_GLASS_PANE
-               name: ""
+               name: " "
             "49":
                id: GRAY_STAINED_GLASS_PANE
-               name: ""
+               name: " "
             "50":
                id: GRAY_STAINED_GLASS_PANE
-               name: ""
+               name: " "
             "51":
                id: GRAY_STAINED_GLASS_PANE
-               name: ""
+               name: " "
             "52":
                id: GRAY_STAINED_GLASS_PANE
-               name: ""
+               name: " "
             "53":
                id: GRAY_STAINED_GLASS_PANE
-               name: ""
-
-      page1:
+               name: " "
+      Page1:
          items:
             "0":
                id: LIGHT_GRAY_STAINED_GLASS_PANE
-               name: ""
+               name: " "
             "1":
                id: LIGHT_GRAY_STAINED_GLASS_PANE
-               name: ""
+               name: " "
             "2":
                id: LIGHT_GRAY_STAINED_GLASS_PANE
-               name: ""
+               name: " "
             "3":
                id: LIGHT_GRAY_STAINED_GLASS_PANE
-               name: ""
+               name: " "
             "4":
                id: LIGHT_GRAY_STAINED_GLASS_PANE
-               name: ""
+               name: " "
             "5":
                id: LIGHT_GRAY_STAINED_GLASS_PANE
-               name: ""
+               name: " "
             "6":
                id: LIGHT_GRAY_STAINED_GLASS_PANE
-               name: ""
+               name: " "
             "7":
                id: LIGHT_GRAY_STAINED_GLASS_PANE
-               name: ""
+               name: " "
             "8":
                id: LIGHT_GRAY_STAINED_GLASS_PANE
-               name: ""
+               name: " "
             "9":
                id: LIGHT_GRAY_STAINED_GLASS_PANE
-               name: ""
+               name: " "
             "10":
                id: LIGHT_GRAY_STAINED_GLASS_PANE
-               name: ""
+               name: " "
             "11":
                id: LIGHT_GRAY_STAINED_GLASS_PANE
-               name: ""
+               name: " "
             "12":
                id: LIGHT_GRAY_STAINED_GLASS_PANE
-               name: ""
-            "13":
-               id: LIGHT_GRAY_STAINED_GLASS_PANE
-               name: ""
-            "14":
-               id: LIGHT_GRAY_STAINED_GLASS_PANE
-               name: ""
-            "15":
-               id: LIGHT_GRAY_STAINED_GLASS_PANE
-               name: ""
-            "16":
-               id: LIGHT_GRAY_STAINED_GLASS_PANE
-               name: ""
-            "17":
-               id: LIGHT_GRAY_STAINED_GLASS_PANE
-               name: ""
-            "18":
-               id: LIGHT_GRAY_STAINED_GLASS_PANE
-               name: ""
-            "19":
-               id: LIGHT_GRAY_STAINED_GLASS_PANE
-               name: ""
-            "20":
-               id: LIGHT_GRAY_STAINED_GLASS_PANE
-               name: ""
-            "21":
-               id: LIGHT_GRAY_STAINED_GLASS_PANE
-               name: ""
-            "22":
-               id: LIGHT_GRAY_STAINED_GLASS_PANE
-               name: ""
-            "23":
-               id: LIGHT_GRAY_STAINED_GLASS_PANE
-               name: ""
-            "24":
-               id: LIGHT_GRAY_STAINED_GLASS_PANE
-               name: ""
-            "25":
-               id: LIGHT_GRAY_STAINED_GLASS_PANE
-               name: ""
-            "26":
-               id: LIGHT_GRAY_STAINED_GLASS_PANE
-               name: ""
-            "27":
-               id: LIGHT_GRAY_STAINED_GLASS_PANE
-               name: ""
-            "28":
-              id: LIGHT_GRAY_STAINED_GLASS_PANE
-               name: ""
-            "29":
-               id: LIGHT_GRAY_STAINED_GLASS_PANE
-               name: ""
-            "30":
-               id: LIGHT_GRAY_STAINED_GLASS_PANE
-               name: ""
-            "31":
-               id: LIGHT_GRAY_STAINED_GLASS_PANE
-               name: ""
-            "32":
-               id: LIGHT_GRAY_STAINED_GLASS_PANE
-               name: ""
-            "33":
-               id: LIGHT_GRAY_STAINED_GLASS_PANE
-               name: ""
-            "34":
-               id: LIGHT_GRAY_STAINED_GLASS_PANE
-               name: ""
-            "35":
-               id: LIGHT_GRAY_STAINED_GLASS_PANE
-               name: ""
-            "36":
-               id: LIGHT_GRAY_STAINED_GLASS_PANE
-               name: ""
-            "37":
-               id: LIGHT_GRAY_STAINED_GLASS_PANE
-               name: ""
-            "38":
-               id: LIGHT_GRAY_STAINED_GLASS_PANE
-               name: ""
-            "39":
-               id: LIGHT_GRAY_STAINED_GLASS_PANE
-               name: ""
-            "40":
-               id: LIGHT_GRAY_STAINED_GLASS_PANE
-               name: ""
-            "41":
-               id: LIGHT_GRAY_STAINED_GLASS_PANE
-               name: ""
-            "42":
-               id: LIGHT_GRAY_STAINED_GLASS_PANE
-               name: ""
-            "43":
-               id: LIGHT_GRAY_STAINED_GLASS_PANE
-               name: ""
-            "44":
-               id: LIGHT_GRAY_STAINED_GLASS_PANE
-               name: ""
-            "45":
-               id: GRAY_STAINED_GLASS_PANE
-               name: ""
-            "46":
-               id: GRAY_STAINED_GLASS_PANE
-               name: ""
-            "47":
-               id: GRAY_STAINED_GLASS_PANE
-               name: ""
-            "48":
-               id: GRAY_STAINED_GLASS_PANE
-               name: ""
-            "49":
-               id: GRAY_STAINED_GLASS_PANE
-               name: ""
-            "50":
-               id: GRAY_STAINED_GLASS_PANE
-               name: ""
-            "51":
-               id: GRAY_STAINED_GLASS_PANE
-               name: ""
-            "52":
-               id: GRAY_STAINED_GLASS_PANE
-               name: ""
-            "53":
-               id: GRAY_STAINED_GLASS_PANE
-               name: ""
-
-      Page2:
-         items:
-            "0":
-               id: LIGHT_GRAY_STAINED_GLASS_PANE
-               name: ""
-            "1":
-               id: LIGHT_GRAY_STAINED_GLASS_PANE
-               name: ""
-            "2":
-               id: LIGHT_GRAY_STAINED_GLASS_PANE
-               name: ""
-            "3":
-               id: LIGHT_GRAY_STAINED_GLASS_PANE
-               name: ""
-            "4":
-               id: LIGHT_GRAY_STAINED_GLASS_PANE
-               name: ""
-            "5":
-               id: LIGHT_GRAY_STAINED_GLASS_PANE
-               name: ""
-            "6":
-               id: LIGHT_GRAY_STAINED_GLASS_PANE
-               name: ""
-            "7":
-               id: LIGHT_GRAY_STAINED_GLASS_PANE
-               name: ""
-            "8":
-               id: LIGHT_GRAY_STAINED_GLASS_PANE
-               name: ""
-            "9":
-               id: LIGHT_GRAY_STAINED_GLASS_PANE
-               name: ""
-            "10":
-               id: LIGHT_GRAY_STAINED_GLASS_PANE
-               name: ""
-            "11":
-               id: LIGHT_GRAY_STAINED_GLASS_PANE
-               name: ""
-            "12":
-               id: LIGHT_GRAY_STAINED_GLASS_PANE
-               name: ""
+               name: " "
             "13":
                id: PLAYER_HEAD
                skull-uuid: "bb6bccb6-cd90-4844-9b1b-60722b1823ae"
@@ -405,25 +239,25 @@ Menu:
                target-shop: "Heads"
             "14":
                id: LIGHT_GRAY_STAINED_GLASS_PANE
-               name: ""
+               name: " "
             "15":
                id: LIGHT_GRAY_STAINED_GLASS_PANE
-               name: ""
+               name: " "
             "16":
                id: LIGHT_GRAY_STAINED_GLASS_PANE
-               name: ""
+               name: " "
             "17":
                id: LIGHT_GRAY_STAINED_GLASS_PANE
-               name: ""
+               name: " "
             "18":
                id: LIGHT_GRAY_STAINED_GLASS_PANE
-               name: ""
+               name: " "
             "19":
                id: LIGHT_GRAY_STAINED_GLASS_PANE
-               name: ""
+               name: " "
             "20":
                id: LIGHT_GRAY_STAINED_GLASS_PANE
-               name: ""
+               name: " "
             "21":
                id: POTION
                potion-info:
@@ -452,19 +286,19 @@ Menu:
                target-shop: "Chests"
             "24":
                id: LIGHT_GRAY_STAINED_GLASS_PANE
-               name: ""
+               name: " "
             "25":
                id: LIGHT_GRAY_STAINED_GLASS_PANE
-               name: ""
+               name: " "
             "26":
                id: LIGHT_GRAY_STAINED_GLASS_PANE
-               name: ""
+               name: " "
             "27":
                id: LIGHT_GRAY_STAINED_GLASS_PANE
-               name: ""
+               name: " "
             "28":
                id: LIGHT_GRAY_STAINED_GLASS_PANE
-               name: ""
+               name: " "
             "29":
                id: BOW
                lore:
@@ -474,7 +308,7 @@ Menu:
                target-shop: "Bow"
             "30":
                id: LIGHT_GRAY_STAINED_GLASS_PANE
-               name: ""
+               name: " "
             "31":
                id: CREEPER_SPAWN_EGG
                lore:
@@ -484,7 +318,7 @@ Menu:
                target-shop: "Eggs"
             "32":
                id: LIGHT_GRAY_STAINED_GLASS_PANE
-               name: ""
+               name: " "
             "33":
                id: POPPY
                lore:
@@ -494,64 +328,64 @@ Menu:
                target-shop: "Flowers"
             "34":
                id: LIGHT_GRAY_STAINED_GLASS_PANE
-               name: ""
+               name: " "
             "35":
                id: LIGHT_GRAY_STAINED_GLASS_PANE
-               name: ""
+               name: " "
             "36":
                id: LIGHT_GRAY_STAINED_GLASS_PANE
-               name: ""
+               name: " "
             "37":
                id: LIGHT_GRAY_STAINED_GLASS_PANE
-               name: ""
+               name: " "
             "38":
                id: LIGHT_GRAY_STAINED_GLASS_PANE
-               name: ""
+               name: " "
             "39":
                id: LIGHT_GRAY_STAINED_GLASS_PANE
-               name: ""
+               name: " "
             "40":
                id: LIGHT_GRAY_STAINED_GLASS_PANE
-               name: ""
+               name: " "
             "41":
                id: LIGHT_GRAY_STAINED_GLASS_PANE
-               name: ""
+               name: " "
             "42":
                id: LIGHT_GRAY_STAINED_GLASS_PANE
-               name: ""
+               name: " "
             "43":
                id: LIGHT_GRAY_STAINED_GLASS_PANE
-               name: ""
+               name: " "
             "44":
                id: LIGHT_GRAY_STAINED_GLASS_PANE
-               name: ""
+               name: " "
             "45":
-               id: GRAY_STAINED_GLASS_PANE
-               name: ""
+               id: LIGHT_GRAY_STAINED_GLASS_PANE
+               name: " "
             "46":
-               id: GRAY_STAINED_GLASS_PANE
-               name: ""
+               id: LIGHT_GRAY_STAINED_GLASS_PANE
+               name: " "
             "47":
-               id: GRAY_STAINED_GLASS_PANE
-               name: ""
+               id: LIGHT_GRAY_STAINED_GLASS_PANE
+               name: " "
             "48":
-               id: GRAY_STAINED_GLASS_PANE
-               name: ""
+               id: LIGHT_GRAY_STAINED_GLASS_PANE
+               name: " "
             "49":
-               id: GRAY_STAINED_GLASS_PANE
-               name: ""
+               id: LIGHT_GRAY_STAINED_GLASS_PANE
+               name: " "
             "50":
-               id: GRAY_STAINED_GLASS_PANE
-               name: ""
+               id: LIGHT_GRAY_STAINED_GLASS_PANE
+               name: " "
             "51":
-               id: GRAY_STAINED_GLASS_PANE
-               name: ""
+               id: LIGHT_GRAY_STAINED_GLASS_PANE
+               name: " "
             "52":
-               id: GRAY_STAINED_GLASS_PANE
-               name: ""
+               id: LIGHT_GRAY_STAINED_GLASS_PANE
+               name: " "
             "53":
-               id: GRAY_STAINED_GLASS_PANE
-               name: ""
+               id: LIGHT_GRAY_STAINED_GLASS_PANE
+               name: " "
 
    ################################
    ##  Developed by pablo67340   ##
